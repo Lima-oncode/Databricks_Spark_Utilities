@@ -12,11 +12,11 @@
 
 Na barra de pesquisa do windows acesse **ODBC data source (64 bits)**
 
-![Untitled](Conexa%CC%83o%20ODBC%20Databricks%20+%20Excel%20e0da91175e7f455083a94643a06988b0/Untitled.png)
+![Fonte de dados ODBC 64 bits.png](https://github.com/Lima-oncode/Databricks_Spark_Utilities/blob/Databricks_Spark/Conexa%CC%83o%20ODBC%20Databricks%20%2B%20Excel/Fonte%20de%20dados%20ODBC%2064%20bits.png)
 
 Acesse a guia **DSN de sistema** selecione **simba spark** e vá para **configurar**
 
-![Untitled](Conexa%CC%83o%20ODBC%20Databricks%20+%20Excel%20e0da91175e7f455083a94643a06988b0/Untitled%201.png)
+![DSN de Sistema.png](https://github.com/Lima-oncode/Databricks_Spark_Utilities/blob/Databricks_Spark/Conexa%CC%83o%20ODBC%20Databricks%20%2B%20Excel/DSN%20de%20Sistema.png)
 
 Na guia de configuração será necessário informações das **opções avançadas do cluster** databricks na **guia JDBC/ODBC**
 
